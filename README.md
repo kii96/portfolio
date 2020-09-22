@@ -8,4 +8,5 @@
 
 
 - setpath 명령으로 /usr/bin 추가
+
 ![setpath](https://user-images.githubusercontent.com/71490340/93850937-24e8ba00-fcea-11ea-8de7-2c2bce3537ec.gif)
