@@ -7,6 +7,8 @@
 - access 함수로 디렉토리 내에 있는 명령인지 확인 후 명령 실행
 -
 -
+![space](https://user-images.githubusercontent.com/71490340/93852623-52833280-fced-11ea-8298-4a1f3da64f67.gif)
+-
 -
 - mysh 파일에 /bin을 저장한 후 실행
 - setpath 명령으로 /usr/bin 추가
