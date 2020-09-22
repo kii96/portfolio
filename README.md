@@ -20,3 +20,7 @@
 
 - cd
 
+![cd](https://user-images.githubusercontent.com/71490340/93851257-be17d080-fcea-11ea-91bc-43f5839d8077.gif)
+
+- pipe
+
