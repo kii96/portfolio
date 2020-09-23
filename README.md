@@ -11,20 +11,20 @@
 -
 -
 - mysh 파일에 /bin을 저장한 후 실행
-- setpath 명령으로 /usr/bin 추가
+- setpath 명령으로 /usr/bin 추가 ↓↓↓↓↓↓
 
 ![setpath](https://user-images.githubusercontent.com/71490340/93850937-24e8ba00-fcea-11ea-8de7-2c2bce3537ec.gif)
 
 
-- redirection
+- redirection ↓↓↓↓↓↓
 
 ![redi](https://user-images.githubusercontent.com/71490340/93851107-81e47000-fcea-11ea-9bf2-a10a4ad0357b.gif)
 
 
-- cd
+- cd ↓↓↓↓↓↓
 
 ![cd](https://user-images.githubusercontent.com/71490340/93851257-be17d080-fcea-11ea-91bc-43f5839d8077.gif)
 
-- pipe
+- pipe ↓↓↓↓↓↓
 
 ![pipe](https://user-images.githubusercontent.com/71490340/93851323-d851ae80-fcea-11ea-8857-4cd50c10e931.gif)
